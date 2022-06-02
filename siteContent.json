@@ -1,5 +1,6 @@
 {
   "title": "Johnny Cigarette",
+  "landingImage": "jc_title.png",
   "sections": [
     {
       "title": "Animation",
@@ -27,7 +28,11 @@
         {
           "title": "Meatball",
           "text": "Featuring the talented tongues of Fiachra Corkery, Ellen O' Mahony and Euan Murphy, with thanks to Ross for the mugshot<br/><br/>Based on a comic from Cheers Vol. III",
-          "videoLink": "https://www.youtube.com/embed/mjlmd-0PUKc"
+          "videoLink": "https://www.youtube.com/embed/mjlmd-0PUKc",
+          "images": [
+            "meatball1.jpg",
+            "meatball2.jpg"
+          ]
         },
         {
           "title": "Marshmallow",
